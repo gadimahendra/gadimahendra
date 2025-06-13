@@ -112,7 +112,7 @@ while focusing on scalability and performance.
 
 ## 📫 Let’s Connect
 
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
+- 🌐 Portfolio: https://gadimahendra.github.io/Protofolio/  
 - 🔗 LinkedIn: https://www.linkedin.com/in/mahendra-gadi/ 
 - 🐙 GitHub: https://github.com/gadimahendra
 - 📧 Email: mahendragadi66@gmail.com
