@@ -110,14 +110,15 @@ while focusing on scalability and performance.
 
 ---
 
-## 📫 Let’s Connect
 
-## 🌐 Live Demo
 
-🚀 [Click here to view the portfolio](https://gadimahendra.github.io/portfolio/)
-- 🔗 LinkedIn: https://www.linkedin.com/in/mahendra-gadi/ 
-- 🐙 GitHub: https://github.com/gadimahendra
-- 📧 Email: mahendragadi66@gmail.com
+## 🌐 Connect with Me
+
+- 🚀 [View My Portfolio](https://gadimahendra.github.io/portfolio/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mahendra-gadi/)
+- 🐙 [GitHub](https://github.com/gadimahendra)
+- 📧 Email: [mahendragadi66@gmail.com](mailto:mahendragadi66@gmail.com)
+
 
 ---
 
