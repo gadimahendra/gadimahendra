@@ -1,6 +1,7 @@
 # 👋 Hi, I am Mahendra Gadi
 
-I am a passionate Full Stack Developer who specializes in building modern, responsive web applications. On the frontend, I create intuitive and high-performance user interfaces using **Angular** and **React**, along with **RxJS** for reactive programming and **Tailwind CSS**, **Bootstrap**, and **Angular Material** for styling and design systems. On the backend, I develop robust and scalable APIs using **Node.js** and **Express.js**, and work with both **MySQL** and **MongoDB** for data management
+I am a passionate Full Stack Developer specializing in building modern, responsive web applications. I work with **Angular** (RxJS & NgRx) and **React** (Redux & Context API) for frontend development, using **Tailwind CSS**, **Bootstrap**, and **Angular Material** for styling. On the backend, I develop scalable APIs with **Node.js** and **Express.js**, and manage data using **MySQL** and **MongoDB**. I focus on creating intuitive user interfaces and robust, maintainable systems that deliver seamless web experiences.
+
 
 I thrive in dynamic environments where performance, usability, and collaboration matter. I enjoy taking ownership, solving real-world problems, and contributing to impactful products.
 
