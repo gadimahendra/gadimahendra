@@ -8,6 +8,13 @@ I thrive in dynamic environments where performance, usability, and collaboration
 ---
 
 ## 🛠 Tech Stack
+### 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gadimahendra&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadimahendra&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gadimahendra&theme=radical) 
 
 ### 🧩 Frontend
 
