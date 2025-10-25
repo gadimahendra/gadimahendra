@@ -22,7 +22,7 @@ I thrive in dynamic environments where performance, usability, and collaboration
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular%20Material-009688?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/NGXS-3f51b5?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/NGXS-272C66?style=for-the-badge&logo=ngxs&logoColor=white" />
 <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" />
 <img src="https://img.shields.io/badge/Karma-3DDC84?style=for-the-badge&logo=karma&logoColor=white" />
 </p>
