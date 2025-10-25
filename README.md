@@ -1,6 +1,6 @@
 # 👋 Hi, I am Mahendra Gadi
 
-I am a passionate Full Stack Developer specializing in building modern, responsive web applications. I work with **Angular** (RxJS & NgRx) and **React** (Redux & Context API) for frontend development, using **Tailwind CSS**, **Bootstrap**, and **Angular Material** for styling. On the backend, I develop scalable APIs with **Node.js** and **Express.js**, and manage data using **MySQL** and **MongoDB**. I focus on creating intuitive user interfaces and robust, maintainable systems that deliver seamless web experiences.
+I am a passionate Full Stack Developer specializing in building modern, responsive web applications. I work with **Angular** (RxJS & NGXS) and **React** (Redux & Context API) for frontend development, using **Tailwind CSS**, **Bootstrap**, and **Angular Material** for styling. On the backend, I develop scalable APIs with **Node.js** and **Express.js**, and manage data using **MySQL** and **MongoDB**. I focus on creating intuitive user interfaces and robust, maintainable systems that deliver seamless web experiences.
 
 
 I thrive in dynamic environments where performance, usability, and collaboration matter. I enjoy taking ownership, solving real-world problems, and contributing to impactful products.
@@ -22,7 +22,7 @@ I thrive in dynamic environments where performance, usability, and collaboration
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular%20Material-009688?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+<img src="https://img.shields.io/badge/NGXS-3f51b5?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" />
 <img src="https://img.shields.io/badge/Karma-3DDC84?style=for-the-badge&logo=karma&logoColor=white" />
 </p>
